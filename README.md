@@ -1,4 +1,4 @@
-# SQL Student Database Practice (DAY5)
+# SQL Student Database Practice
 
 ## 📌 Project Overview
 
